@@ -1,1 +1,11 @@
-package lab2Repo
+package main
+
+import "fmt"
+
+func main() {
+
+	var a int
+	fmt.Println(a)
+
+	return
+}
